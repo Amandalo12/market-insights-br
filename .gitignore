@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Segredos e configurações locais
+.env
+.streamlit/secrets.toml
+
+# Editor
+.vscode/
+
+# Logs e sistema
+*.log
+.DS_Store
+Thumbs.db
